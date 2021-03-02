@@ -1,0 +1,13 @@
+bài 2: thuật toán 
+      
+-Pseudo-code và flowchart
+ -Lập trình và ngôn ngữ lập trình 
+  +lập trình là quá trình tạo ra tập các chỉ dẫn để ra lệnh cho máy tính 
+    hoàn thành một công việc nào đó .Có nhiều hoạt động như phân tích thiết kế
+    viết code ...
+  + Ngôn ngữ lập trình là phương tiện để lập trình viết ra các chỉ dẫn cho máy tính.
+    - Có nhiều loại ngôn ngữ khác nhau như : wed , desktop , mobile
+ - Học lập trình là học cách tư duy giải quyết vấn đề 
+ - học ngôn ngữ lập trình là học tư duy của ngôn ngữ đó , học cú pháp của ngôn ngữ đó.
+ - học viết mã giả và vẽ lưu đồ 
+     
