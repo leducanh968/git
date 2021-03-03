@@ -1,0 +1,17 @@
+Git & HTML:
+- Git là một hệ thống điều khiển phiên bản 
+   theo hình thức phân tán
+   Git được sử dụng để quản lý mã nguồn và ghi nhận các
+   thay đổi.
+   + có những lệnh git cơ bản như :
+             +Clone :Sao chép một Remote Repository về máy của lập trình viên
+             + Commit: là cách để tạo các snapshot
+             + Pull :Cập nhật mã nguồn từ một Remote Repository về Local Repository
+             + add: Đưa các file vào trong vùng staged
+-HTML là ngôn ngữ được sử dụng để tạo ra các Web
+      là viết tắt của chữ Hypertext Markup
+   
++ các thẻ cơ bản :
+  +Thẻ tiêu đề <h1></h1>
+   +Thẻ tạo đoạn văn bản <p></p>
+   +Thẻ chèn hình ảnh <img>
